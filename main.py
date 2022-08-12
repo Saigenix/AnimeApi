@@ -106,4 +106,4 @@ api.add_resource(AnimeNew,'/newanime')
 api.add_resource(Welcome,'/')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
