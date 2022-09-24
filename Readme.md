@@ -17,5 +17,11 @@
 #### POST
 >- /newanime - To create New Anime Data with Auto id
 
+` {
+"title": "death note",
+"description": "death note is a manga",
+"image_url": "test.png"
+} `
+
 #### DELETE
 >- /anime/anime_id - To Delete Anime At specific Id
